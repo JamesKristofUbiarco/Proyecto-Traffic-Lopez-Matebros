@@ -65,7 +65,7 @@ El polimorfismo se demuestra en el método central **`generar_alerta()`**:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/JamesKristofUbiarco/Proyecto-Traffic-Lopez-Matebros.git](https://github.com/JamesKristofUbiarco/Proyecto-Traffic-Lopez-Matebros.git)
+    git clone https://github.com/JamesKristofUbiarco/Proyecto-Traffic-Lopez-Matebros.git   
     ```
 2.  **Navegar a la carpeta:**
     ```bash
